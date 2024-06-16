@@ -1,0 +1,100 @@
+{
+    "trainners": [
+        {
+            "id": 1,
+            "name": "Ash Ketchum",
+            "age": 10,
+            "gender": "Male",
+            "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/02/latest/20221113131941/Ash_%28Viajes_Pok%C3%A9mon%29_2.png/250px-Ash_%28Viajes_Pok%C3%A9mon%29_2.png",
+            "pokemons": [1, 2, 3, 4, 5]
+        },
+        {
+            "id": 2,
+            "name": "Misty",
+            "age": 10,
+            "gender": "Female",
+            "image": "https://upload.wikimedia.org/wikipedia/en/b/b1/MistyEP.png",
+            "pokemons": [6, 7, 8, 9, 10]
+        },
+        {
+            "id": 3,
+            "name": "Brock",
+            "age": 15,
+            "gender": "Male",
+            "image": "https://images.wikidexcdn.net/mwuploads/wikidex/5/5b/latest/20170829165448/Brock_serie_SL.png",
+            "pokemons":[11,12,13,14,15]
+        },
+        {
+            "id": 4,
+            "name": "May",
+            "age": 10,
+            "gender": "Female",
+            "image": "https://th.bing.com/th/id/R.3a02480b94f7a4b42ca486538978f942?rik=nKNiA24Rc021Zg&pid=ImgRaw&r=0",
+            "pokemons":[16,17,18,19,20]
+        },
+        {
+            "id": 5,
+            "name": "Dawn",
+            "age": 10,
+            "gender": "Female",
+            "image": "https://images.wikidexcdn.net/mwuploads/wikidex/e/e7/latest/20211124202622/Dawn-Maya_VP.png"
+        },
+        {
+            "id": 6,
+            "name": "Iris",
+            "age": 12,
+            "gender": "Female",
+            "image": "https://images.wikidexcdn.net/mwuploads/wikidex/a/ac/latest/20120714032647/Ilustraci%C3%B3n_de_Iris_N2B2.png"
+        },
+        {
+            "id": 7,
+            "name": "Cilan",
+            "age": 15,
+            "gender": "Male",
+            "image": "https://images.wikidexcdn.net/mwuploads/wikidex/d/d8/latest/20150715031419/Cilan_%28anime%29.png",
+            "pokemons": [11, 12, 13, 14, 15]
+        },
+        {
+            "id": 8,
+            "name": "Serena",
+            "age": 10,
+            "gender": "Female"
+        },
+        {
+            "id": 9,
+            "name": "Clemont",
+            "age": 15,
+            "gender": "Male"
+        },
+        {
+            "id": 10,
+            "name": "Bonnie",
+            "age": 6,
+            "gender": "Female"
+        },
+        {
+            "id": 11,
+            "name": "Lillie",
+            "age": 11,
+            "gender": "Female"
+        },
+        {
+            "id": 12,
+            "name": "Kiawe",
+            "age": 11,
+            "gender": "Male"
+        },
+        {
+            "id": 13,
+            "name": "Mallow",
+            "age": 11,
+            "gender": "Female"
+        },
+        {
+            "id": 14,
+            "name": "Sophocles",
+            "age": 11,
+            "gender": "Male"
+        }
+    ]
+}
